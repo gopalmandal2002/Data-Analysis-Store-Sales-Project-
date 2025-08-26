@@ -28,7 +28,7 @@ Data visualization is the process of creating a graphical representation of data
 ### Insights & Reporting
 This is the final and most crucial stage where I analyzed the visualizations to uncover meaningful insights. It's about turning the data into actionable knowledge. I then created a report to communicate these findings clearly to stakeholders. The goal is to provide recommendations based on the data, enabling the business to make smarter, data-driven decisions.
 ## Dashboar image
-
+https://github.com/gopalmandal2002/Data-Analysis-Store-Sales-Project-/blob/main/Screenshot%202025-08-26%20205505.png
 
 
 
